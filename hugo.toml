@@ -1,4 +1,0 @@
-baseURL = 'https://kaiasaoka.github.io/blogsite/'
-languageCode = 'en-us'
-title = 'Kai Asaokas Personal Blog'
-theme = 'hugo-theme-stack'
