@@ -6,6 +6,31 @@
         <description>Recent content in Tags on Kai Asaoka&#39;s Personal Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Kai Asaoka</copyright><atom:link href="http://localhost:1313/blogsite/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Kai Asaoka</copyright>
+        <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blogsite/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cars</title>
+        <link>http://localhost:1313/blogsite/tags/cars/</link>
+        <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blogsite/tags/cars/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VTEC</title>
+        <link>http://localhost:1313/blogsite/tags/vtec/</link>
+        <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blogsite/tags/vtec/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VVTI</title>
+        <link>http://localhost:1313/blogsite/tags/vvti/</link>
+        <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blogsite/tags/vvti/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
